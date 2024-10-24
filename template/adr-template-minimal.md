@@ -1,5 +1,13 @@
 # {short title, representative of solved problem and found solution}
 
+## - Metadata
+
+Name of the author, date this ADR was approved, name of the approver.
+
+## Status: 
+
+proposed, accepted, or superseded. If this ADR is superseded by a more recent one, please reference the newer ADR for further details.
+
 ## Context and Problem Statement
 
 {Describe the context and problem statement, e.g., in free form using two to three sentences or in the form of an illustrative story. You may want to articulate the problem in form of a question and add links to collaboration boards or issue management systems.}
